@@ -1,0 +1,33 @@
+{
+  "nav": {
+    "home": "Ana Sayfa",
+    "about": "Hakkımızda",
+    "login": "Giriş Yap"
+  },
+  "userSettings": {
+    "profile": "Profil",
+    "settings": "Ayarlar",
+    "report": "Geri Bİldirim",
+    "logout": "Çıkış Yap"
+  },
+  "homePage": {
+    "whatisbgsHouse": "BGS House Nedir ?",
+    "bgshouseContent": "Sokaklarda bundan dolayı orta camisi öyle ki otobüs biber kalemi ışık dağılımı de biber. Şafak sevindi gülüyorum gül duyulmamış ötekinden dolayı yazın biber masanın. Filmini mi mıknatıslı okuma sayfası çünkü ve bundan dolayı ekşili çorba gazete lakin anlamsız. Mıknatıslı okuma sayfası bilgisayarı lakin umut koştum yapacakmış çobanın dergi sıradanlıktan dışarı çıktılar türemiş sıfat yazın beğendim. Çünkü dergi otobüs yazın çakıl lakin ışık dağılımı biber sinema adresini ötekinden dolayı teldeki balıkhaneye salladı. Bilgiyasayarı çünkü ekşili çorba adanaya sıla cesurca yaptı adresini sıradanlıktan koştum mıknatıslı okuma sayfası. ",
+    "managementTeam": "Yönetim Ekibi",
+    "teamAuth": {
+      "owner": "Şirket Sahibi",
+      "executive": "Yönetici",
+      "servitorship": "Köle"
+    },
+    "teamName": {
+      "hasan": "Hasan Çağrı Bozaklı",
+      "sefa": "Sefa Altıntaş",
+      "hamdi": "Hamdi Koçaş"
+    },
+    "whatisbgsGames": "BGS Games Nedir ?",
+    "bgsGamesContent": "Bilgiyasayarı çünkü ekşili çorba adanaya sıla cesurca yaptı adresini sıradanlıktan koştum mıknatıslı okuma sayfası. Teldeki uzattı masanın çobanın adanaya koştum hesap makinesi teldeki umut de. Bilgiyasayarı sıradanlıktan çakıl koştum mıknatıslı okuma sayfası kalemi öyle ki filmini mi öyle ki ötekinden dolayı. Nedirnedemek Türkçe Lorem İpsum.",
+    "cLink": "Kart Link",
+    "aLink": "Diğer Link",
+    "opTeam": "Mükemmel Ekibimiz"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "login": "Login"
+  },
+  "userSettings": {
+    "profile": "Profile",
+    "settings": "Settings",
+    "report": "Report",
+    "logout": "LogOut"
+  },
+  "homePage": {
+    "whatisbgsHouse": "What is BGS House ?",
+    "bgshouseContent": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ducimus id ullam ipsum natus, nihil enim deserunt a maiores iusto quas cum error? Rerum modi similique, dolores sint commodi ipsum ad.",
+    "managementTeam": "Management Team",
+    "teamAuth": {
+      "owner": "Owner",
+      "executive": "Executive",
+      "servitorship": "Servitorship"
+    },
+    "teamName": {
+      "hasan": "Hasan Çağrı Bozaklı",
+      "sefa": "Sefa Altıntaş",
+      "hamdi": "Hamdi Koçaş"
+    },
+    "whatisbgsGames": "What is BGS Games ?",
+    "bgsGamesContent": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eos quas iure ipsa in doloribus, fugit repellendus. Amet minus magnam quas? Pogro molestiae commodi aliquid est nemo distinctio reiciendis numquam sed?",
+    "cLink": "Card Link",
+    "aLink": "Another Link",
+    "opTeam": "Our Purfect Team"
+  }
+}
